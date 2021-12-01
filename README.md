@@ -1,1 +1,1 @@
-# online-college-voting-system
+# online-quize app
